@@ -5,4 +5,6 @@ Program uruchamia testowy serwer dla polaczen TCP. Domyslny port TCP to 6996. Kl
 
 Aby uruchomic serwer na innym porcie nalezy w linii komend podac numerr portu, np.:
 
+```
 tcp-test-server 5000
+```
